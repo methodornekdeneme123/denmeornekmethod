@@ -1,4 +1,6 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+https://google.com
+https://casibom.com
+https://r10.net
+vs. vs.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+deneme örnek
